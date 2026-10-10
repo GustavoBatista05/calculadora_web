@@ -2,6 +2,6 @@ function olaMundo () {
     console.log ("Hello World!");
 }
 
-function numeroPressionado (const num) {
-    
+function numeroPressionado (num) {
+    console.log (num)
 }
